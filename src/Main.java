@@ -111,6 +111,7 @@ public class Main
     }
     public static void ejercicio3 ()
     {
+        ///Hola
         Scanner scan = new Scanner(System.in);
         Item venta = new Item();
         Item venta2 = new Item();
